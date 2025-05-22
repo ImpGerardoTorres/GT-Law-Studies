@@ -1,0 +1,1 @@
+Alteração, mudança ou evolução que ocorre numa [[Situação Jurídica]]. Podendo ser a sua: modificação, suspensão, transmissão ou extinção.

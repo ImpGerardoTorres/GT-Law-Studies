@@ -1,0 +1,1 @@
+Situação(Estado pós-facto que se dá) da vida com relevo para o Direito(Ordenamento jurídico vigente)

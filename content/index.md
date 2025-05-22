@@ -1,6 +1,10 @@
 ---
 title: Index
 ---
-Bem-vindo
+Bem-vindo ao repositório de estudos de Direito criado por Gerardo Torres.
 
-Verifica esta página [[Nova-Página]]
+Aqui podes encontrar o seguinte:
+1. Primeiro ano
+	- TGDC II
+	- IED II
+	- DC II
