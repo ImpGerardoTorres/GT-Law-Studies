@@ -1,4 +1,5 @@
 ---
-title: index
+title: Index
 ---
-Olá e bem-vindo
+
+Bem-vindo
